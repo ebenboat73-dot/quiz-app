@@ -1,0 +1,112 @@
+[
+{
+    "id": 1,
+    "question": "Which of the following is not an AI tool?",
+    "options": [
+    "Claude",
+    "Deepseek",
+    "MS Word",
+    "Gemini"
+],
+    "correctAnswer": 2
+},
+{
+    "id": 2,
+    "question": "Which keyword is used to declare a variable that can be reassigned?",
+    "options": [
+        "const",
+        "let",
+        "fixed",
+        "define"
+    ],
+    "correctAnswer": 1
+},
+{
+    "id": 3,
+    "question": "Which symbol is used for strict equality in JavaScript?",
+    "options": [
+        "=",
+        "==",
+        "===",
+        "!="
+    ],
+    "correctAnswer": 2
+},
+{
+    "id": 4,
+    "question": "Which data type represents a true or false value?",
+    "options": [
+        "String",
+        "Number",
+        "Boolean",
+        "Object"
+    ],
+    "correctAnswer": 2
+},
+{
+    "id": 5,
+    "question": "Which method adds an item to the end of an array?",
+    "options": [
+        "pop()",
+        "push()",
+        "shift()",
+        "add()"
+    ],
+    "correctAnswer": 1
+},
+{
+    "id": 6,
+    "question": "Which method converts a JavaScript object into a JSON string?",
+    "options": [
+        "JSON.parse()",
+        "JSON.object()",
+        "JSON.stringify()",
+        "JSON.convert()"
+    ],
+    "correctAnswer": 2
+},
+{
+    "id": 7,
+    "question": "Which method converts a JSON string into a JavaScript value?",
+    "options": [
+        "JSON.parse()",
+        "JSON.stringify()",
+        "JSON.convert()",
+        "JSON.toObject()"
+    ],
+    "correctAnswer": 0
+},
+{
+    "id": 8,
+    "question": "Which DOM method selects an element using its id?",
+    "options": [
+        "document.select()",
+        "document.getElementById()",
+        "document.findId()",
+        "document.getId()"
+    ],
+    "correctAnswer": 1
+},
+{
+    "id": 9,
+    "question": "Which keyword is used to define a function?",
+    "options": [
+        "function",
+        "method",
+        "def",
+        "func"
+    ],
+    "correctAnswer": 0
+},
+{
+    "id": 10,
+    "question": "What does localStorage allow a web application to do?",
+    "options": [
+        "Store data in the browser",
+        "Create a database server",
+        "Compile JavaScript",
+        "Connect directly to another computer"
+    ],
+    "correctAnswer": 0
+}
+]
