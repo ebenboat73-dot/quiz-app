@@ -78,9 +78,7 @@ After starting the quiz:
 
 Live Project:
 
-**Coming soon**
-
-The live project URL will be added here after deployment.
+https://ebenboat73-dot.github.io/quiz-app/
 
 ## Learning Objectives
 
