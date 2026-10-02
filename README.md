@@ -74,9 +74,9 @@ After starting the quiz:
 7. The next question is displayed.
 8. After all questions have been answered, the final score and quiz results are displayed.
 
-## Project URL
+## Project Page URL
 
-https://ebenboat73-dot.github.io/quiz-app/
+[Project Page](https://ebenboat73-dot.github.io/quiz-app/)
 
 ## Learning Objectives
 
